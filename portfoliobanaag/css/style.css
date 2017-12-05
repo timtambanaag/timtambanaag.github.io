@@ -42,7 +42,7 @@ header ul {
 
 header ul li {
 	list-style-type:none;
-	display: list-item;
+	display:inline;
 	line-height: 70px;
 	padding-left: 150px;
 }
